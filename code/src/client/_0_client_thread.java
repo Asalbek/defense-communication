@@ -1,17 +1,3 @@
-/*
-Project Name: Defense Communication
-Developers:
-    Muhilan
-    Raghava
-Filename: _0_client_thread.java
-Title: Threading for new users and new messages
-GitHub: @raghavtwenty
-Date Created: May 20, 2023 | Last Updated: May 25, 2024
-Language: Java | Version: 21.0.3
-*/
-
-
-// Package
 package client;
 
 // Importing the required modules
